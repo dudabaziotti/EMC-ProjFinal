@@ -1,2 +1,3 @@
 # EMC-ProjFinal
 Este repositório contém os arquivos do trabalho realizado na matéria PBLE01, pelo Grupo 9, formado pelos alunos Davi Gouveia Vilela, Ramon Patricínio e Raul Bortoloto, na data de 20/06/2022. Essa placa foi utilizada pela aluna Iris Dias Pires com seu grupo na matéria de PBLE02, onde realizaram a montagem, organização, testes e adaptação da mesma.
+Esses dados serão utilizados para a realização do relatório de técnicas de compatibilidade eletromagnética e otimização da PCB na matéria ELTA05 pelos alunos Eduarda Baziotti, Iris Dias Pires e Thiago de Oliveira Souza Junior, na data de 01/07/2025.
